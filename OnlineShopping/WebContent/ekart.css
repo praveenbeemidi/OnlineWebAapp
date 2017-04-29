@@ -1,0 +1,52 @@
+.otheractive {
+    background-color: black;
+}
+ .navbar{
+ margin-bottom:0;
+ border-radius:0;
+ background-color:white;
+ }
+ 
+.navbar-brand{
+	font-family: fontawesome;
+	text-decoration:none;
+	font-size:300%;
+}
+	
+.Ur{color:violet;}
+.Slide{color:darkgreen;}
+.Show{color:gray;}
+
+	
+.nav{float:right;}
+
+.navbar .nav li a:hover {
+	color:white;
+	background-color:darkgreen;
+	text-align:center;
+}
+
+.carousel-caption {
+	color:#300000 ;
+}
+
+.block{
+	background-color:#404040;
+	color:white;
+	padding:1.2em;
+}
+
+.contactinfo{
+	background-color:LightSkyBlue  ;
+	color:white;
+}
+.contactinfo h3{color:#400000 }
+
+
+<!----------signup-------------- > 
+
+.customform {
+    background-color: LightSkyBlue;
+}
+
+
